@@ -106,4 +106,21 @@ Flight delay tracking and analysis app built with Microsoft Power Platform
 ├── /doc/ # Use case, architecture diagrams, wireframes
 ├── README.md # Project overview (this file)
 ├── LICENSE # MIT License
+## 📋 License
+
+This project is released under the [MIT License](./LICENSE).
+
+---
+
+## 🔗 External Resources
+
+- [AviationStack API](https://aviationstack.com/)
+- [OpenWeatherMap API](https://openweathermap.org/api)
+- [Microsoft Power Platform Docs](https://learn.microsoft.com/en-us/power-platform/)
+
+---
+
+## 👩‍💻 Author
+
+Created by *Ny Lazasoa Janick Michèle RAHERIHARIMAHEFA* 
 
