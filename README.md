@@ -1,12 +1,12 @@
 # AirSight
 Flight delay tracking and analysis app built with Microsoft Power Platform
-# ✈️ AirSight – Flight Operations Tracker
+# ✈ AirSight – Flight Operations Tracker
 
 **AirSight** is a Power Platform-based application designed to track and analyze airline delays and their causes (weather, company, airport). This project simulates a real use case in the aviation sector and was developed to demonstrate data integration, visualization, and automation using Microsoft technologies.
 
 ---
 
-## 📌 Use Case – Simulated Scenario
+## Use Case – Simulated Scenario
 
 > A logistics team working in air operations needs to monitor flights departing from Paris (CDG and Orly). The goal is to detect major delays, understand contributing factors (like weather or airline), and anticipate operational impacts.  
 >  
